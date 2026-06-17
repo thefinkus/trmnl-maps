@@ -6,10 +6,28 @@
     "date": "ca. 1749–50"
   },
   {
+    "file": "sub17.jpg",
+    "artist": "Francisco de Goya y Lucientes",
+    "title": "Funereal Folly, from The Disparates",
+    "date": "ca. 1815–19 (published 1864)"
+  },
+  {
+    "file": "sub21.jpg",
+    "artist": "Domenico del Barbiere",
+    "title": "Two Flayed Men and Their Skeletons",
+    "date": "ca. 1540–45"
+  },
+  {
     "file": "sub01.jpg",
     "artist": "Giovanni Battista Piranesi",
     "title": "Carceri (Imaginary Prisons)",
     "date": "1761–1809"
+  },
+  {
+    "file": "sub18.jpg",
+    "artist": "Francisco de Goya y Lucientes",
+    "title": "A Way of Flying, from The Disparates",
+    "date": "ca. 1815–16 (published 1864)"
   },
   {
     "file": "sub02.jpg",
@@ -18,10 +36,22 @@
     "date": "ca. 1749–50"
   },
   {
+    "file": "sub19.jpg",
+    "artist": "Francisco de Goya y Lucientes",
+    "title": "Plate 43 from 'Los Caprichos': The sleep of reason produces monsters (El sueño de la razon produce monstruos)",
+    "date": "1799"
+  },
+  {
     "file": "sub03.jpg",
     "artist": "Giovanni Battista Piranesi",
     "title": "The Pier with a Lamp, from \"Carceri d'invenzione\" (Imaginary Prisons)",
     "date": "ca. 1749–50"
+  },
+  {
+    "file": "sub20.jpg",
+    "artist": "Francisco de Goya y Lucientes",
+    "title": "Plate 55 from 'Los Caprichos': Until death (Hasta la muerte)",
+    "date": "1799"
   },
   {
     "file": "sub04.jpg",
@@ -100,143 +130,5 @@
     "artist": "Giovanni Battista Piranesi",
     "title": "Ancient mausoleum erected for the ashes of a Roman Emperor",
     "date": "ca. 1750"
-  },
-  {
-    "file": "sub17.jpg",
-    "artist": "Francisco de Goya y Lucientes",
-    "title": "Funereal Folly, from The Disparates",
-    "date": "ca. 1815–19 (published 1864)"
-  },
-  {
-    "file": "sub18.jpg",
-    "artist": "Francisco de Goya y Lucientes",
-    "title": "A Way of Flying, from The Disparates",
-    "date": "ca. 1815–16 (published 1864)"
-  },
-  {
-    "file": "sub19.jpg",
-    "artist": "Francisco de Goya y Lucientes",
-    "title": "Plate 43 from 'Los Caprichos': The sleep of reason produces monsters (El sueño de la razon produce monstruos)",
-    "date": "1799"
-  },
-  {
-    "file": "sub20.jpg",
-    "artist": "Francisco de Goya y Lucientes",
-    "title": "Plate 55 from 'Los Caprichos': Until death (Hasta la muerte)",
-    "date": "1799"
-  },
-  {
-    "file": "sub21.jpg",
-    "artist": "Domenico del Barbiere",
-    "title": "Two Flayed Men and Their Skeletons",
-    "date": "ca. 1540–45"
-  },
-  {
-    "file": "sub22.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Amphoridea. — Urnensterne",
-    "date": "1904"
-  },
-  {
-    "file": "sub23.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Bryozoa. — Moostiere (Flustra)",
-    "date": "1904"
-  },
-  {
-    "file": "sub24.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Cyrtoidea. — Flaschenstrahlinge",
-    "date": "1904"
-  },
-  {
-    "file": "sub25.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Crinoidea. — Palmensterne",
-    "date": "1904"
-  },
-  {
-    "file": "sub26.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Desmidiea. — Zierdinge",
-    "date": "1904"
-  },
-  {
-    "file": "sub27.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Echinidea — Igelsterne",
-    "date": "1904"
-  },
-  {
-    "file": "sub28.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Filicinae — Laubfarne (Platycerium)",
-    "date": "1904"
-  },
-  {
-    "file": "sub29.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Acephala",
-    "date": "1904"
-  },
-  {
-    "file": "sub30.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Amphoridea",
-    "date": "1904"
-  },
-  {
-    "file": "sub31.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Blastoidea",
-    "date": "1904"
-  },
-  {
-    "file": "sub32.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Bryozoa",
-    "date": "1904"
-  },
-  {
-    "file": "sub33.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Haeckel Cyrtoidea",
-    "date": "1904"
-  },
-  {
-    "file": "sub34.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Haeckel Discoidea",
-    "date": "1904"
-  },
-  {
-    "file": "sub35.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Haeckel Hexacoralla 69",
-    "date": "1904"
-  },
-  {
-    "file": "sub36.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Haeckel Leptomedusae",
-    "date": "1904"
-  },
-  {
-    "file": "sub37.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Haeckel Lichenes",
-    "date": "1904"
-  },
-  {
-    "file": "sub38.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Mycetozoa",
-    "date": "1904"
-  },
-  {
-    "file": "sub39.jpg",
-    "artist": "Ernst Haeckel",
-    "title": "Pennatulida",
-    "date": "1904"
   }
 ]
