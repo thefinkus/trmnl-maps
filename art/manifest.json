@@ -6,28 +6,16 @@
     "date": "ca. 1749–50"
   },
   {
-    "file": "sub17.jpg",
-    "artist": "Francisco de Goya y Lucientes",
-    "title": "Funereal Folly, from The Disparates",
-    "date": "ca. 1815–19 (published 1864)"
-  },
-  {
-    "file": "sub21.jpg",
-    "artist": "Domenico del Barbiere",
-    "title": "Two Flayed Men and Their Skeletons",
-    "date": "ca. 1540–45"
-  },
-  {
     "file": "sub01.jpg",
     "artist": "Giovanni Battista Piranesi",
     "title": "Carceri (Imaginary Prisons)",
     "date": "1761–1809"
   },
   {
-    "file": "sub18.jpg",
+    "file": "sub17.jpg",
     "artist": "Francisco de Goya y Lucientes",
-    "title": "A Way of Flying, from The Disparates",
-    "date": "ca. 1815–16 (published 1864)"
+    "title": "Funereal Folly, from The Disparates",
+    "date": "ca. 1815–19 (published 1864)"
   },
   {
     "file": "sub02.jpg",
@@ -36,22 +24,10 @@
     "date": "ca. 1749–50"
   },
   {
-    "file": "sub19.jpg",
-    "artist": "Francisco de Goya y Lucientes",
-    "title": "Plate 43 from 'Los Caprichos': The sleep of reason produces monsters (El sueño de la razon produce monstruos)",
-    "date": "1799"
-  },
-  {
     "file": "sub03.jpg",
     "artist": "Giovanni Battista Piranesi",
     "title": "The Pier with a Lamp, from \"Carceri d'invenzione\" (Imaginary Prisons)",
     "date": "ca. 1749–50"
-  },
-  {
-    "file": "sub20.jpg",
-    "artist": "Francisco de Goya y Lucientes",
-    "title": "Plate 55 from 'Los Caprichos': Until death (Hasta la muerte)",
-    "date": "1799"
   },
   {
     "file": "sub04.jpg",
@@ -64,6 +40,12 @@
     "artist": "Giovanni Battista Piranesi",
     "title": "The Well, from \"Carceri d'invenzione\" (Imaginary Prisons)",
     "date": "ca. 1749–50"
+  },
+  {
+    "file": "sub21.jpg",
+    "artist": "Domenico del Barbiere",
+    "title": "Two Flayed Men and Their Skeletons",
+    "date": "ca. 1540–45"
   },
   {
     "file": "sub06.jpg",
@@ -84,6 +66,12 @@
     "date": "ca. 1748"
   },
   {
+    "file": "sub18.jpg",
+    "artist": "Francisco de Goya y Lucientes",
+    "title": "A Way of Flying, from The Disparates",
+    "date": "ca. 1815–16 (published 1864)"
+  },
+  {
     "file": "sub09.jpg",
     "artist": "Giovanni Battista Piranesi",
     "title": "Plate 18: The Tomb of the Scipios",
@@ -100,6 +88,12 @@
     "artist": "Giovanni Battista Piranesi",
     "title": "Plate 22: Rear View of the Temple of Pola in Istria",
     "date": "ca. 1748"
+  },
+  {
+    "file": "sub19.jpg",
+    "artist": "Francisco de Goya y Lucientes",
+    "title": "Plate 43 from 'Los Caprichos': The sleep of reason produces monsters (El sueño de la razon produce monstruos)",
+    "date": "1799"
   },
   {
     "file": "sub12.jpg",
@@ -124,6 +118,12 @@
     "artist": "Giovanni Battista Piranesi",
     "title": "Magnificent bridge with loggias, and arches erected by a Roman Emperor",
     "date": "ca. 1750"
+  },
+  {
+    "file": "sub20.jpg",
+    "artist": "Francisco de Goya y Lucientes",
+    "title": "Plate 55 from 'Los Caprichos': Until death (Hasta la muerte)",
+    "date": "1799"
   },
   {
     "file": "sub16.jpg",
