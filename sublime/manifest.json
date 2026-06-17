@@ -1,0 +1,62 @@
+[
+  {
+    "file": "sub00.jpg",
+    "artist": "Albrecht Dürer",
+    "title": "Melencolia I",
+    "date": "1514"
+  },
+  {
+    "file": "sub01.jpg",
+    "artist": "Rembrandt van Rijn",
+    "title": "The Good Samaritan",
+    "date": "1633"
+  },
+  {
+    "file": "sub02.jpg",
+    "artist": "Francisco de Goya y Lucientes",
+    "title": "Self-Portrait; Plate 1 from 'Los Caprichos'",
+    "date": "1799"
+  },
+  {
+    "file": "sub03.jpg",
+    "artist": "Martin Schongauer",
+    "title": "Bust of a Man in a Hat Gazing Upward",
+    "date": "ca. 1480–90"
+  },
+  {
+    "file": "sub04.jpg",
+    "artist": "Martin Schongauer",
+    "title": "Christ Carrying the Cross",
+    "date": "ca. 1475–80"
+  },
+  {
+    "file": "sub05.jpg",
+    "artist": "Hendrick Goltzius",
+    "title": "Phaeton, from 'The Four Disgracers'",
+    "date": "1588"
+  },
+  {
+    "file": "sub06.jpg",
+    "artist": "Jan Muller",
+    "title": "Portrait of Hendrick Goltzius",
+    "date": "ca. 1617"
+  },
+  {
+    "file": "sub07.jpg",
+    "artist": "Hendrick Goltzius",
+    "title": "The Great Hercules",
+    "date": "1589"
+  },
+  {
+    "file": "sub08.jpg",
+    "artist": "Wenceslaus Hollar",
+    "title": "A moth, three butterflies and two beetles",
+    "date": "1646"
+  },
+  {
+    "file": "sub09.jpg",
+    "artist": "Wenceslaus Hollar",
+    "title": "Five Butterflies, a Moth and Two Beetles",
+    "date": "1646"
+  }
+]
