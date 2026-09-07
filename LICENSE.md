@@ -11,10 +11,6 @@ the credit line when reusing them.
 
 Only sheets published before 1930 are included in the public plugin pool.
 
-## Art plates (`art/`)
-
-Metropolitan Museum of Art, Open Access (CC0).
-
 ## Code and markup
 
 MIT.
