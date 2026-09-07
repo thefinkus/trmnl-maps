@@ -1,6 +1,6 @@
 # Licence
 
-## Map crops (`map*.jpg`)
+## Map crops (`map*.png`)
 
 Derived from scans in the **David Rumsey Map Collection, David Rumsey Map Center,
 Stanford Libraries** (https://www.davidrumsey.com), used under the
@@ -14,10 +14,6 @@ Only sheets published before 1930 are included in the public plugin pool.
 ## Art plates (`art/`)
 
 Metropolitan Museum of Art, Open Access (CC0).
-
-## Weird Vintage (`weird/`)
-
-Personal, non-redistributed pool. Not part of any public plugin.
 
 ## Code and markup
 
