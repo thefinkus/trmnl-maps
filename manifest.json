@@ -890,192 +890,143 @@
     "c": "Ortelius",
     "t": "Maris Pacifici",
     "y": "1589",
-    "p": "Antwerp",
-    "fit": "4lv",
-    "est_png": 586557
+    "p": "Antwerp"
   },
   {
     "file": "map125.png",
     "c": "Blaeu",
     "t": "Guiana sive Amazonum Regio",
     "y": "1635",
-    "p": "Amsterdam",
-    "fit": "8lv",
-    "est_png": 575187
+    "p": "Amsterdam"
   },
   {
     "file": "map126.png",
     "c": "-",
     "t": "Aphricae Tabula III",
     "y": "1545",
-    "p": "",
-    "fit": "16lv",
-    "est_png": 590549
+    "p": ""
   },
   {
     "file": "map127.png",
     "c": "Olaus Magnus",
     "t": "Carta Marina",
     "y": "1539",
-    "p": "Venice",
-    "fit": "4lv",
-    "est_png": 585127
+    "p": "Venice"
   },
   {
     "file": "map128.png",
     "c": "Kircher",
     "t": "Tabula Geographica Hydrophylacium Asiae Majoris",
     "y": "1665",
-    "p": "Amsterdam",
-    "fit": "16lv",
-    "est_png": 232581
+    "p": "Amsterdam"
   },
   {
     "file": "map129.png",
     "c": "Frederik de Wit",
     "t": "Nova Totius Terrarum Orbis Tabula",
     "y": "1660",
-    "p": "Amsterdam",
-    "fit": "6lv",
-    "est_png": 504177
+    "p": "Amsterdam"
   },
   {
     "file": "map130.png",
     "c": "Turgot / Bretez",
     "t": "Plan de Paris",
     "y": "1739",
-    "p": "Paris",
-    "fit": "4lv",
-    "est_png": 547944
+    "p": "Paris"
   },
   {
     "file": "map131.png",
     "c": "Giovanni Battista Nolli",
     "t": "Nuova Pianta di Roma",
     "y": "1748",
-    "p": "Roma",
-    "fit": "5lv",
-    "est_png": 549594
+    "p": "Roma"
   },
   {
     "file": "map132.png",
     "c": "John Rocque",
     "t": "A Plan of the Cities of London and Westminster",
     "y": "1746",
-    "p": "London",
-    "fit": "4lv",
-    "est_png": 574213
+    "p": "London"
   },
   {
     "file": "map133.png",
     "c": "-",
     "t": "Argentina / Straßburg",
     "y": "1493",
-    "p": "Nürnberg",
-    "fit": "16lv",
-    "est_png": 310027
+    "p": "Nürnberg"
   },
   {
     "file": "map134.png",
     "c": "J. Bachmann",
     "t": "Bird's Eye View of Boston",
     "y": "1850",
-    "p": "New York",
-    "fit": "8lv",
-    "est_png": 589897
+    "p": "New York"
   },
   {
     "file": "map135.png",
     "c": "Giuseppe Vasi",
     "t": "Prospetto dell'Alma Città di Roma visto dal Monte Gianicolo",
     "y": "1765",
-    "p": "Roma",
-    "fit": "4lv",
-    "est_png": 589008
+    "p": "Roma"
   },
   {
     "file": "map136.png",
     "c": "Athanasius Kircher",
     "t": "Tabula Geographico-Hydrographica Motus Oceani Currentes Abyssos Montes Ignivomos",
     "y": "1665",
-    "p": "Amsterdam",
-    "fit": "16lv",
-    "est_png": 352675
+    "p": "Amsterdam"
   },
   {
     "file": "map137.png",
     "c": "Matthäus Merian",
     "t": "Die Fürstliche Residenz Stat Altenburg in Meissen",
     "y": "1650",
-    "p": "Frankfurt",
-    "fit": "12lv",
-    "est_png": 594186
+    "p": "Frankfurt"
   },
   {
     "file": "map138.png",
     "c": "Turgot / Bretez",
     "t": "Plan de Paris",
     "y": "1739",
-    "p": "Paris",
-    "fit": "4lv",
-    "est_png": 526118
+    "p": "Paris"
   },
   {
     "file": "map139.png",
     "c": "Valck",
     "t": "Novus Planiglobii Terrestris per Utrumque Polum Conspectus",
     "y": "1695",
-    "p": "Amsterdam",
-    "fit": "8lv",
-    "est_png": 578352
+    "p": "Amsterdam"
   },
   {
     "file": "map140.png",
     "c": "Merian",
     "t": "Brema",
     "y": "1653",
-    "p": "Frankfurt",
-    "fit": "16lv",
-    "est_png": 442458
+    "p": "Frankfurt"
   },
   {
     "file": "map141.png",
     "c": "Hollar",
     "t": "A View of London Bridge in the Year 1647",
     "y": "1647",
-    "p": "London",
-    "fit": "8lv",
-    "est_png": 599073
+    "p": "London"
   },
   {
     "file": "map142.png",
     "c": "Johnson",
     "t": "Chart of Comparative Heights of Mountains and Lengths of Rivers",
     "y": "1864",
-    "p": "New York",
-    "fit": "16lv",
-    "est_png": 381073
+    "p": "New York"
   },
   {
     "file": "map143.png",
     "c": "Visscher, Nicolaes Joannes",
     "t": "Leo Belgicus – Nova XVII Provinciarum Germaniae Inferioris tabula",
     "y": "1630",
-    "p": "Amsterdam",
-    "fit": "6lv",
-    "est_png": 556850
+    "p": "Amsterdam"
   },
   {
     "file": "map144.png",
-    "c": "Rose, F. W.",
-    "t": "Serio-Comic War Map for the Year 1877",
-    "y": "1877",
-    "p": "London",
-    "fit": "10lv",
-    "est_png": 586675
-  },
-  {
-    "file": "map145.png",
     "c": "Ortelius",
     "t": "Tartariae sive Magni Chami Regni Typus",
     "y": "1579",
@@ -1084,7 +1035,7 @@
     "est_png": 540163
   },
   {
-    "file": "map146.png",
+    "file": "map145.png",
     "c": "-",
     "t": "Roma Antica – bird's-eye plan of ancient Rome",
     "y": "c. 1550",
@@ -1093,7 +1044,7 @@
     "est_png": 585185
   },
   {
-    "file": "map147.png",
+    "file": "map146.png",
     "c": "Olaus Magnus",
     "t": "Carta Marina et Descriptio Septemtrionalium Terrarum",
     "y": "1539",
@@ -1102,7 +1053,7 @@
     "est_png": 554593
   },
   {
-    "file": "map148.png",
+    "file": "map147.png",
     "c": "Heinrich Bünting",
     "t": "Die ganze Welt in einem Kleberblatt",
     "y": "1585",
@@ -1111,7 +1062,7 @@
     "est_png": 449428
   },
   {
-    "file": "map149.png",
+    "file": "map148.png",
     "c": "Emanuel Bowen",
     "t": "A New and Accurate Map of all the Known World",
     "y": "1744",
