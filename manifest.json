@@ -4,108 +4,84 @@
     "c": "Siegfried/Dufour",
     "t": "Gotthard — Topographischer Atlas der Schweiz",
     "y": "",
-    "p": "Bern",
-    "fit": "4lv",
-    "est_png": 417245
+    "p": "Bern"
   },
   {
     "file": "map01.png",
     "c": "—",
     "t": "Quillan — Carte de France",
     "y": "",
-    "p": "Paris",
-    "fit": "6lv",
-    "est_png": 551131
+    "p": "Paris"
   },
   {
     "file": "map02.png",
     "c": "—",
     "t": "Detail-Karte des Tatra Gebietes",
     "y": "",
-    "p": "Vienna",
-    "fit": "6lv",
-    "est_png": 558186
+    "p": "Vienna"
   },
   {
     "file": "map03.png",
     "c": "Ordnance Survey",
     "t": "Ullapool — Ordnance Survey of Scotland Sheet 101",
     "y": "",
-    "p": "Southampton",
-    "fit": "6lv",
-    "est_png": 494828
+    "p": "Southampton"
   },
   {
     "file": "map04.png",
     "c": "Ordnance Survey",
     "t": "Sheet 62 – Loch Eil, Inverness-shire",
     "y": "",
-    "p": "Scotland",
-    "fit": "8lv",
-    "est_png": 599294
+    "p": "Scotland"
   },
   {
     "file": "map05.png",
     "c": "F.V. Hayden / U.S. Geological Survey of the Territories",
     "t": "Lower Geyser Basin, Fire Hole River, Wyoming Territory",
     "y": "1871",
-    "p": "Wyoming Territory",
-    "fit": "10lv",
-    "est_png": 562537
+    "p": "Wyoming Territory"
   },
   {
     "file": "map06.png",
     "c": "Lt. George M. Wheeler / Corps of Engineers, U.S. Army",
     "t": "Map of the Grand Cañon of the Colorado – River and Land Parties",
     "y": "1871",
-    "p": "Arizona / Utah",
-    "fit": "6lv",
-    "est_png": 582363
+    "p": "Arizona / Utah"
   },
   {
     "file": "map07.png",
     "c": "U.S. Geological Survey",
     "t": "Yosemite, California – Topographic Sheet",
     "y": "",
-    "p": "California",
-    "fit": "4lv",
-    "est_png": 483295
+    "p": "California"
   },
   {
     "file": "map08.png",
     "c": "U.S. Coast Survey",
     "t": "San Francisco Peninsula",
     "y": "",
-    "p": "California",
-    "fit": "12lv",
-    "est_png": 597336
+    "p": "California"
   },
   {
     "file": "map09.png",
     "c": "U.S. Coast Survey",
     "t": "Cape Flattery and Nee-Ah Harbor, Washington",
     "y": "1856",
-    "p": "Washington Territory",
-    "fit": "16lv",
-    "est_png": 324118
+    "p": "Washington Territory"
   },
   {
     "file": "map10.png",
     "c": "U.S. Coast Survey",
     "t": "Richmond's Island Harbor, Maine",
     "y": "1855",
-    "p": "Maine",
-    "fit": "6lv",
-    "est_png": 496660
+    "p": "Maine"
   },
   {
     "file": "map11.png",
     "c": "—",
     "t": "Map of Vesuvius Showing Lava Streams 1631–1831",
     "y": "1831",
-    "p": "Naples",
-    "fit": "6lv",
-    "est_png": 476810
+    "p": "Naples"
   },
   {
     "file": "map12.png",
@@ -113,36 +89,28 @@
     "t": "Official Map of the Moon",
     "y": "1969",
     "p": "Chicago",
-    "copyright_risk": true,
-    "fit": "6lv",
-    "est_png": 503008
+    "copyright_risk": true
   },
   {
     "file": "map13.png",
     "c": "Unknown (French)",
     "t": "Plan de la ville de Berlin",
     "y": "c. 1750",
-    "p": "Berlin",
-    "fit": "4lv",
-    "est_png": 578880
+    "p": "Berlin"
   },
   {
     "file": "map14.png",
     "c": "Unknown (Venetian publisher)",
     "t": "Nuova Pianta Iconografica dell'Inclita Città di Venezia",
     "y": "c. 1820",
-    "p": "Venedig",
-    "fit": "4lv",
-    "est_png": 496789
+    "p": "Venedig"
   },
   {
     "file": "map15.png",
     "c": "C.W.M. van de Velde / Justus Perthes",
     "t": "Plan of the Town and Environs of Jerusalem",
     "y": "1858",
-    "p": "Jerusalem",
-    "fit": "4lv",
-    "est_png": 489616
+    "p": "Jerusalem"
   },
   {
     "file": "map16.png",
@@ -150,27 +118,21 @@
     "t": "Düsseldorf — Pictorial City Plan",
     "y": "c. 1960s",
     "p": "Düsseldorf",
-    "copyright_risk": true,
-    "fit": "4lv",
-    "est_png": 499857
+    "copyright_risk": true
   },
   {
     "file": "map17.png",
     "c": "Unknown (after Bavarian monastery survey)",
     "t": "Geometrischer gründtriß und beschreibung des Stifft und Klosters Tegernsee",
     "y": "c. 1630–1650",
-    "p": "Tegernsee",
-    "fit": "4lv",
-    "est_png": 470368
+    "p": "Tegernsee"
   },
   {
     "file": "map18.png",
     "c": "A. Flinsch",
     "t": "Plan von Berlin",
     "y": "c. 1840",
-    "p": "Berlin",
-    "fit": "4lv",
-    "est_png": 509740
+    "p": "Berlin"
   },
   {
     "file": "map19.png",
@@ -178,54 +140,42 @@
     "t": "München — Detailed Cadastral City Plan",
     "y": "c. 1940s",
     "p": "München",
-    "copyright_risk": true,
-    "fit": "4lv",
-    "est_png": 491748
+    "copyright_risk": true
   },
   {
     "file": "map20.png",
     "c": "Society for the Diffusion of Useful Knowledge (SDUK)",
     "t": "Turin (Torino) — Engraved City Plan with Citadel",
     "y": "c. 1844",
-    "p": "Turin",
-    "fit": "6lv",
-    "est_png": 456522
+    "p": "Turin"
   },
   {
     "file": "map21.png",
     "c": "Society for the Diffusion of Useful Knowledge (SDUK)",
     "t": "Edinburgh",
     "y": "c. 1851",
-    "p": "Edinburgh",
-    "fit": "4lv",
-    "est_png": 513802
+    "p": "Edinburgh"
   },
   {
     "file": "map22.png",
     "c": "Flemming / Graef",
     "t": "Lissabon (Lisboa) 1844 — engraved city plan with hill-shading, street network, and inset overview",
     "y": "1844",
-    "p": "Lissabon",
-    "fit": "6lv",
-    "est_png": 485316
+    "p": "Lissabon"
   },
   {
     "file": "map23.png",
     "c": "Unknown (after Jacopo de' Barbari tradition)",
     "t": "Nuova Pianta Elevata Della Nobile e Cospicua Città di Venezia",
     "y": "c. 1700",
-    "p": "Venedig",
-    "fit": "6lv",
-    "est_png": 582343
+    "p": "Venedig"
   },
   {
     "file": "map24.png",
     "c": "Barker & Robert",
     "t": "Carte et Plan de Constantinople et du Canal du Bosphore",
     "y": "1839",
-    "p": "Konstantinopel",
-    "fit": "6lv",
-    "est_png": 573059
+    "p": "Konstantinopel"
   },
   {
     "file": "map25.png",
@@ -233,117 +183,91 @@
     "t": "Mars Marte — Five-View Planetary Map at 1:20,000,000",
     "y": "c. 1980",
     "p": "Mars",
-    "copyright_risk": true,
-    "fit": "16lv",
-    "est_png": 439446
+    "copyright_risk": true
   },
   {
     "file": "map26.png",
     "c": "Robinson & Smith",
     "t": "Plan of Jerusalem",
     "y": "c. 1841",
-    "p": "Jerusalem",
-    "fit": "4lv",
-    "est_png": 457151
+    "p": "Jerusalem"
   },
   {
     "file": "map27.png",
     "c": "Eidgenössische Landestopographie",
     "t": "Blatt 521: Bernina — Topographischer Atlas der Schweiz",
     "y": "1877",
-    "p": "Bern",
-    "fit": "6lv",
-    "est_png": 531504
+    "p": "Bern"
   },
   {
     "file": "map28.png",
     "c": "Eidgenössische Landestopographie",
     "t": "Blatt 396: Grindelwald — Topographischer Atlas der Schweiz",
     "y": "1870",
-    "p": "Bern",
-    "fit": "6lv",
-    "est_png": 542024
+    "p": "Bern"
   },
   {
     "file": "map29.png",
     "c": "Eidgenössische Landestopographie",
     "t": "Blatt 240: Säntis — Topographischer Atlas der Schweiz",
     "y": "1868",
-    "p": "Bern",
-    "fit": "6lv",
-    "est_png": 529671
+    "p": "Bern"
   },
   {
     "file": "map30.png",
     "c": "Eidgenössische Landestopographie",
     "t": "Blatt 501: Simplon — Topographischer Atlas der Schweiz",
     "y": "1876",
-    "p": "Bern",
-    "fit": "6lv",
-    "est_png": 576308
+    "p": "Bern"
   },
   {
     "file": "map31.png",
     "c": "Eidgenössische Landestopographie",
     "t": "Blatt 534: Saas — Topographischer Atlas der Schweiz",
     "y": "1878",
-    "p": "Bern",
-    "fit": "6lv",
-    "est_png": 551604
+    "p": "Bern"
   },
   {
     "file": "map32.png",
     "c": "Testevuide & Bedigis / Service du Cadastre",
     "t": "Carte Topographique de l'Île de Corse, Sheet 6",
     "y": "1824",
-    "p": "Paris",
-    "fit": "4lv+s1500",
-    "est_png": 439038
+    "p": "Paris"
   },
   {
     "file": "map33.png",
     "c": "—",
     "t": "Colmar — Carte de l'État-Major, Sheet 86",
     "y": "",
-    "p": "Paris",
-    "fit": "4lv",
-    "est_png": 516014
+    "p": "Paris"
   },
   {
     "file": "map34.png",
     "c": "Service Géographique de l'Armée",
     "t": "Lons-le-Saunier (Sheet 138)",
     "y": "c.1880",
-    "p": "Paris",
-    "fit": "4lv",
-    "est_png": 597254
+    "p": "Paris"
   },
   {
     "file": "map35.png",
     "c": "Ordnance Survey of Scotland",
     "t": "Ben Nevis — Sheet 53",
     "y": "c.1870",
-    "p": "Southampton",
-    "fit": "6lv",
-    "est_png": 471100
+    "p": "Southampton"
   },
   {
     "file": "map36.png",
     "c": "Ordnance Survey of England and Wales",
     "t": "Snowdon (Hills) — Sheet 119",
     "y": "c.1890",
-    "p": "Southampton",
-    "fit": "4lv",
-    "est_png": 456830
+    "p": "Southampton"
   },
   {
     "file": "map37.png",
     "c": "Henry Gannett / F. Channing Chapin",
     "t": "Montana and Wyoming Territories — Madison, Gallatin and Upper Yellowstone Rivers",
     "y": "c.1883",
-    "p": "Washington D.C.",
-    "fit": "16lv",
-    "est_png": 579165
+    "p": "Washington D.C."
   },
   {
     "file": "map38.png",
@@ -351,9 +275,7 @@
     "t": "Yosemite and the Central Sierra",
     "y": "",
     "p": "",
-    "copyright_risk": true,
-    "fit": "6lv",
-    "est_png": 492394
+    "copyright_risk": true
   },
   {
     "file": "map39.png",
@@ -361,36 +283,28 @@
     "t": "Aeroplane Map of Glacier National Park, Montana and Waterton Lakes Park, Alberta",
     "y": "",
     "p": "",
-    "copyright_risk": true,
-    "fit": "6lv",
-    "est_png": 499374
+    "copyright_risk": true
   },
   {
     "file": "map40.png",
     "c": "U.S. Coast Survey",
     "t": "Boston Harbor, Massachusetts",
     "y": "",
-    "p": "Washington",
-    "fit": "6lv",
-    "est_png": 460457
+    "p": "Washington"
   },
   {
     "file": "map41.png",
     "c": "de Barres / Sartine",
     "t": "Carte de la Baie de Chesapeake",
     "y": "",
-    "p": "Paris",
-    "fit": "6lv",
-    "est_png": 562430
+    "p": "Paris"
   },
   {
     "file": "map42.png",
     "c": "U.S. Coast Survey / W.H. Heuer",
     "t": "San Diego Entrance and Approaches, California",
     "y": "1851",
-    "p": "Washington",
-    "fit": "8lv",
-    "est_png": 545294
+    "p": "Washington"
   },
   {
     "file": "map43.png",
@@ -398,81 +312,63 @@
     "t": "Mount Everest Region",
     "y": "",
     "p": "",
-    "copyright_risk": true,
-    "fit": "4lv",
-    "est_png": 593416
+    "copyright_risk": true
   },
   {
     "file": "map44.png",
     "c": "—",
     "t": "Mount Fuji",
     "y": "",
-    "p": "Japan",
-    "fit": "4lv",
-    "est_png": 441571
+    "p": "Japan"
   },
   {
     "file": "map45.png",
     "c": "Justus Perthes",
     "t": "Thätigkeit des Erdinnern — Vulkane und Strandveränderungen",
     "y": "",
-    "p": "Gotha",
-    "fit": "10lv",
-    "est_png": 562190
+    "p": "Gotha"
   },
   {
     "file": "map46.png",
     "c": "Johnston",
     "t": "Illustrations of Glacier Systems of the Alps",
     "y": "c.1850",
-    "p": "Edinburgh",
-    "fit": "16lv",
-    "est_png": 559941
+    "p": "Edinburgh"
   },
   {
     "file": "map47.png",
     "c": "Mädler, J.H.",
     "t": "General-Karte der sichtbaren Seite der Mondoberfläche",
     "y": "1837",
-    "p": "Berlin",
-    "fit": "4lv",
-    "est_png": 504737
+    "p": "Berlin"
   },
   {
     "file": "map48.png",
     "c": "Testevuide & Bedigis",
     "t": "Carte Topographique de l'Île de Corse",
     "y": "1824",
-    "p": "Paris",
-    "fit": "6lv",
-    "est_png": 575038
+    "p": "Paris"
   },
   {
     "file": "map49.png",
     "c": "—",
     "t": "Mirecourt",
     "y": "",
-    "p": "France",
-    "fit": "4lv",
-    "est_png": 428607
+    "p": "France"
   },
   {
     "file": "map50.png",
     "c": "—",
     "t": "Pontarlier — Jura relief",
     "y": "",
-    "p": "France",
-    "fit": "6lv",
-    "est_png": 560168
+    "p": "France"
   },
   {
     "file": "map51.png",
     "c": "U.S. Geological Survey",
     "t": "Preliminary Geological Map of the Yellowstone National Park",
     "y": "1878",
-    "p": "Washington, D.C.",
-    "fit": "8lv",
-    "est_png": 513762
+    "p": "Washington, D.C."
   },
   {
     "file": "map52.png",
@@ -480,54 +376,42 @@
     "t": "Geologic Map of California, Death Valley Sheet",
     "y": "1958",
     "p": "California",
-    "copyright_risk": true,
-    "fit": "4lv",
-    "est_png": 495054
+    "copyright_risk": true
   },
   {
     "file": "map53.png",
     "c": "—",
     "t": "Oregon — Physical",
     "y": "",
-    "p": "",
-    "fit": "16lv",
-    "est_png": 576526
+    "p": ""
   },
   {
     "file": "map54.png",
     "c": "—",
     "t": "Mapa de la Republica de Chile",
     "y": "",
-    "p": "Chile",
-    "fit": "16lv",
-    "est_png": 354556
+    "p": "Chile"
   },
   {
     "file": "map55.png",
     "c": "—",
     "t": "Chart of Boston Harbour and the Surrounding Area",
     "y": "",
-    "p": "Boston",
-    "fit": "8lv",
-    "est_png": 570606
+    "p": "Boston"
   },
   {
     "file": "map56.png",
     "c": "—",
     "t": "Map of New York Bay and Harbor and the Environs",
     "y": "",
-    "p": "New York",
-    "fit": "4lv",
-    "est_png": 419314
+    "p": "New York"
   },
   {
     "file": "map57.png",
     "c": "—",
     "t": "Halifax Harbour",
     "y": "",
-    "p": "",
-    "fit": "16lv",
-    "est_png": 589853
+    "p": ""
   },
   {
     "file": "map58.png",
@@ -535,36 +419,28 @@
     "t": "Mahalangur Himal – Chomolongma / Mount Everest",
     "y": "1957",
     "p": "",
-    "copyright_risk": true,
-    "fit": "4lv",
-    "est_png": 516520
+    "copyright_risk": true
   },
   {
     "file": "map59.png",
     "c": "—",
     "t": "Map of Alpine Regions in Vicinity of Mount Cook",
     "y": "",
-    "p": "New Zealand",
-    "fit": "6lv",
-    "est_png": 570302
+    "p": "New Zealand"
   },
   {
     "file": "map60.png",
     "c": "—",
     "t": "Crater of Moku-a-weo-weo, Mouna-Loa",
     "y": "",
-    "p": "Hawaii",
-    "fit": "12lv",
-    "est_png": 596795
+    "p": "Hawaii"
   },
   {
     "file": "map61.png",
     "c": "E. von Sydow",
     "t": "Vesuvius und seine Umgebung / Vesuvius and Naples Bay",
     "y": "",
-    "p": "Gotha: Justus Perthes",
-    "fit": "10lv",
-    "est_png": 565411
+    "p": "Gotha: Justus Perthes"
   },
   {
     "file": "map62.png",
@@ -572,9 +448,7 @@
     "t": "Aletschgletscher — Walliser und Berneralpen",
     "y": "",
     "p": "Bern",
-    "copyright_risk": true,
-    "fit": "4lv",
-    "est_png": 540028
+    "copyright_risk": true
   },
   {
     "file": "map63.png",
@@ -582,27 +456,21 @@
     "t": "Gruppe des Monte Rosa / Massif du Mont Rose — Wallis / Valais",
     "y": "",
     "p": "Bern",
-    "copyright_risk": true,
-    "fit": "4lv",
-    "est_png": 546799
+    "copyright_risk": true
   },
   {
     "file": "map64.png",
     "c": "Beer & Mädler",
     "t": "Mappa Selenographica — visible hemisphere of the Moon",
     "y": "1834",
-    "p": "Berlin",
-    "fit": "4lv",
-    "est_png": 505546
+    "p": "Berlin"
   },
   {
     "file": "map65.png",
     "c": "—",
     "t": "Geologische Kaart van Java en Madoera, Blad B.V",
     "y": "",
-    "p": "Netherlands",
-    "fit": "4lv",
-    "est_png": 492801
+    "p": "Netherlands"
   },
   {
     "file": "map66.png",
@@ -610,108 +478,84 @@
     "t": "Karstlandschaft bei Postojna (Adelsberg) 1:200 000 — Balkan",
     "y": "",
     "p": "",
-    "copyright_risk": true,
-    "fit": "10lv",
-    "est_png": 598054
+    "copyright_risk": true
   },
   {
     "file": "map67.png",
     "c": "—",
     "t": "Lunar Surface Section XX — Contour Relief",
     "y": "",
-    "p": "",
-    "fit": "6lv",
-    "est_png": 590716
+    "p": ""
   },
   {
     "file": "map68.png",
     "c": "—",
     "t": "St. Jean-Pied de Port — Pyrenean Terrain Relief",
     "y": "",
-    "p": "France",
-    "fit": "6lv",
-    "est_png": 529029
+    "p": "France"
   },
   {
     "file": "map69.png",
     "c": "—",
     "t": "Besançon — Jura Terrain Relief",
     "y": "",
-    "p": "France",
-    "fit": "4lv",
-    "est_png": 502924
+    "p": "France"
   },
   {
     "file": "map70.png",
     "c": "Ordnance Survey",
     "t": "Snowdon (Ffrangod) — Sheet 119",
     "y": "",
-    "p": "London",
-    "fit": "4lv",
-    "est_png": 488571
+    "p": "London"
   },
   {
     "file": "map71.png",
     "c": "U.S. Geological Survey",
     "t": "Canyon Sheet — Geology Sheet XII, Yellowstone National Park",
     "y": "1904",
-    "p": "Washington",
-    "fit": "8lv",
-    "est_png": 558386
+    "p": "Washington"
   },
   {
     "file": "map72.png",
     "c": "—",
     "t": "Nevada Plateau (Topographical)",
     "y": "",
-    "p": "",
-    "fit": "16lv",
-    "est_png": 445676
+    "p": ""
   },
   {
     "file": "map73.png",
     "c": "—",
     "t": "Sheet No. 24 — Mt. St. Elias, Agassiz, Cascade, Seward, Marvine & Hayden Glaciers",
     "y": "",
-    "p": "",
-    "fit": "16lv",
-    "est_png": 375447
+    "p": ""
   },
   {
     "file": "map74.png",
     "c": "—",
     "t": "Mapa de la Republica de Chile (Sheet 3)",
     "y": "",
-    "p": "",
-    "fit": "8lv",
-    "est_png": 597597
+    "p": ""
   },
   {
     "file": "map75.png",
     "c": "—",
     "t": "Mapa General del Peru",
     "y": "",
-    "p": "",
-    "fit": "10lv",
-    "est_png": 599351
+    "p": ""
   },
   {
     "file": "map76.png",
     "c": "Sartine",
     "t": "Carte de la Baie de Chesapeake et de la Partie Navigable des Rivieres",
     "y": "",
-    "p": "Paris",
-    "fit": "10lv",
-    "est_png": 543085
+    "p": "Paris"
   },
   {
     "file": "map77.png",
     "c": "—",
     "t": "Charleston Harbor with Soundings",
     "y": "1887",
-    "p": "",
-    "fit": "6lv",
-    "est_png": 588546
+    "p": ""
   },
   {
     "file": "map78.png",
@@ -719,81 +563,63 @@
     "t": "The Mount Everest Region",
     "y": "1961",
     "p": "London",
-    "copyright_risk": true,
-    "fit": "4lv",
-    "est_png": 552662
+    "copyright_risk": true
   },
   {
     "file": "map79.png",
     "c": "U.S. Ex. Ex.",
     "t": "Crater of Kilauea, Hawaii",
     "y": "1841",
-    "p": "Washington",
-    "fit": "16lv",
-    "est_png": 591226
+    "p": "Washington"
   },
   {
     "file": "map80.png",
     "c": "Rizzi-Zannoni / Clermont",
     "t": "Carte des Environs de la Ville et du Golfe de Naples",
     "y": "1787",
-    "p": "Naples",
-    "fit": "4lv",
-    "est_png": 404181
+    "p": "Naples"
   },
   {
     "file": "map81.png",
     "c": "Berghaus",
     "t": "Volcans — world volcano map with eruption profiles",
     "y": "1838",
-    "p": "Gotha",
-    "fit": "16lv",
-    "est_png": 547485
+    "p": "Gotha"
   },
   {
     "file": "map82.png",
     "c": "Stülpnagel",
     "t": "Griechenland und der Griechisch-Türkische Archipel",
     "y": "1871",
-    "p": "Gotha",
-    "fit": "8lv",
-    "est_png": 571724
+    "p": "Gotha"
   },
   {
     "file": "map83.png",
     "c": "Berghaus",
     "t": "Eisverbreitung — Alpine glacier relief insets",
     "y": "1848",
-    "p": "Gotha",
-    "fit": "6lv",
-    "est_png": 500593
+    "p": "Gotha"
   },
   {
     "file": "map84.png",
     "c": "Stieler",
     "t": "Nordpolargebiete",
     "y": "1875",
-    "p": "Gotha",
-    "fit": "6lv",
-    "est_png": 496569
+    "p": "Gotha"
   },
   {
     "file": "map85.png",
     "c": "Ordnance Survey",
     "t": "Ambleside (Keswick), Sheet 38",
     "y": "",
-    "p": "London",
-    "fit": "4lv",
-    "est_png": 440130
+    "p": "London"
   },
   {
     "file": "map86.png",
     "c": "—",
     "t": "Spanien und Portugal",
     "y": "",
-    "p": "",
-    "fit": "6lv",
-    "est_png": 553565
+    "p": ""
   },
   {
     "file": "map87.png",
@@ -801,144 +627,112 @@
     "t": "Übersichtskarte der Schweiz / Carte d'ensemble de la Suisse",
     "y": "",
     "p": "",
-    "copyright_risk": true,
-    "fit": "4lv",
-    "est_png": 541569
+    "copyright_risk": true
   },
   {
     "file": "map88.png",
     "c": "—",
     "t": "Green River Basin (Topographical)",
     "y": "",
-    "p": "",
-    "fit": "16lv",
-    "est_png": 449159
+    "p": ""
   },
   {
     "file": "map89.png",
     "c": "—",
     "t": "Mapa de la Republica de Chile, Sheet 5",
     "y": "",
-    "p": "Chile",
-    "fit": "12lv",
-    "est_png": 596603
+    "p": "Chile"
   },
   {
     "file": "map90.png",
     "c": "U.S. Coast Survey",
     "t": "Map of New-York Bay and Harbor and the Environs",
     "y": "1844",
-    "p": "Washington",
-    "fit": "6lv",
-    "est_png": 501384
+    "p": "Washington"
   },
   {
     "file": "map91.png",
     "c": "M. de Nantive",
     "t": "Plan de la Barre et du Havre de Charles-town",
     "y": "1778",
-    "p": "Paris",
-    "fit": "8lv",
-    "est_png": 595883
+    "p": "Paris"
   },
   {
     "file": "map92.png",
     "c": "—",
     "t": "A Chart of the Harbour of Boston, with the Soundings, Sailing-Marks, and Other Descriptions",
     "y": "",
-    "p": "",
-    "fit": "16lv",
-    "est_png": 567414
+    "p": ""
   },
   {
     "file": "map93.png",
     "c": "Berghaus / Wolf",
     "t": "Spezial-Karte vom Himalaya in Kumaon, Gurhwal, Sirmur",
     "y": "1835",
-    "p": "Gotha",
-    "fit": "4lv",
-    "est_png": 466871
+    "p": "Gotha"
   },
   {
     "file": "map94.png",
     "c": "—",
     "t": "Punjab (East) and Kashmir",
     "y": "",
-    "p": "",
-    "fit": "6lv",
-    "est_png": 453817
+    "p": ""
   },
   {
     "file": "map95.png",
     "c": "U.S. Ex. Ex.",
     "t": "Map of Part of the Island of Hawaii, Sandwich Islands, Showing the Craters and Eruption",
     "y": "1841",
-    "p": "",
-    "fit": "4lv",
-    "est_png": 443161
+    "p": ""
   },
   {
     "file": "map96.png",
     "c": "—",
     "t": "Carte du Mont Vésuve",
     "y": "",
-    "p": "",
-    "fit": "16lv",
-    "est_png": 517640
+    "p": ""
   },
   {
     "file": "map97.png",
     "c": "—",
     "t": "Aletschgletscher – Alpine glacier relief",
     "y": "",
-    "p": "",
-    "fit": "6lv",
-    "est_png": 522521
+    "p": ""
   },
   {
     "file": "map98.png",
     "c": "—",
     "t": "Lunar surface – Sect. XXIV, southern limb crater field",
     "y": "",
-    "p": "",
-    "fit": "6lv",
-    "est_png": 565541
+    "p": ""
   },
   {
     "file": "map99.png",
     "c": "Petermann, A.",
     "t": "Griechenland und der Griechisch-Türkische Archipel",
     "y": "1872",
-    "p": "Gotha",
-    "fit": "10lv",
-    "est_png": 587356
+    "p": "Gotha"
   },
   {
     "file": "map100.png",
     "c": "U.S. Coast Survey",
     "t": "Coast Chart No. 20 — New York Bay and Harbor",
     "y": "",
-    "p": "Washington",
-    "fit": "16lv",
-    "est_png": 577586
+    "p": "Washington"
   },
   {
     "file": "map101.png",
     "c": "Navière",
     "t": "Carte Réduite des Côtes Orientales de l'Amérique Septentrionale",
     "y": "",
-    "p": "Paris",
-    "fit": "6lv",
-    "est_png": 495297
+    "p": "Paris"
   },
   {
     "file": "map102.png",
     "c": "—",
     "t": "India XI — Himalayan Foothills and Nepal",
     "y": "",
-    "p": "London",
-    "fit": "6lv",
-    "est_png": 483896
+    "p": "London"
   },
   {
     "file": "map103.png",
@@ -946,18 +740,14 @@
     "t": "Hawaii North — Topographic Sheet",
     "y": "",
     "p": "",
-    "copyright_risk": true,
-    "fit": "8lv",
-    "est_png": 599939
+    "copyright_risk": true
   },
   {
     "file": "map104.png",
     "c": "Haack",
     "t": "Mittelitalien — Vesuvius detail (Stielers Handatlas Bl. 21)",
     "y": "",
-    "p": "Gotha",
-    "fit": "6lv",
-    "est_png": 495239
+    "p": "Gotha"
   },
   {
     "file": "map105.png",
@@ -965,126 +755,98 @@
     "t": "Jungfraugruppe und Aletschgletscher",
     "y": "",
     "p": "Schweiz",
-    "copyright_risk": true,
-    "fit": "6lv",
-    "est_png": 471701
+    "copyright_risk": true
   },
   {
     "file": "map106.png",
     "c": "Justus Perthes",
     "t": "Eisverbreitung einst und jetzt — Schweizer Alpen relief inset",
     "y": "",
-    "p": "Gotha",
-    "fit": "6lv",
-    "est_png": 590128
+    "p": "Gotha"
   },
   {
     "file": "map107.png",
     "c": "Justus Perthes",
     "t": "Die sichtbare Seite der Mond-Oberfläche bei voller Beleuchtung",
     "y": "",
-    "p": "Gotha",
-    "fit": "6lv",
-    "est_png": 544164
+    "p": "Gotha"
   },
   {
     "file": "map108.png",
     "c": "—",
     "t": "Lunar Surface Chart, Sect. II",
     "y": "",
-    "p": "",
-    "fit": "6lv",
-    "est_png": 552427
+    "p": ""
   },
   {
     "file": "map109.png",
     "c": "Fauth, Philipp",
     "t": "Selenograph Spezialkarten – Tafel VI (Fracaslorius region)",
     "y": "",
-    "p": "",
-    "fit": "10lv",
-    "est_png": 589690
+    "p": ""
   },
   {
     "file": "map110.png",
     "c": "—",
     "t": "Carte de France – Tarbes (No. 240), Pyrenean relief",
     "y": "",
-    "p": "France",
-    "fit": "6lv",
-    "est_png": 593297
+    "p": "France"
   },
   {
     "file": "map111.png",
     "c": "Testevuide / Bedigis",
     "t": "Carte Topographique de l'Île de Corse, Sheet 4",
     "y": "1824",
-    "p": "France",
-    "fit": "4lv+s1500",
-    "est_png": 456754
+    "p": "France"
   },
   {
     "file": "map112.png",
     "c": "U.S. Geological Survey",
     "t": "Dardanelles Quadrangle, California",
     "y": "1898",
-    "p": "Washington, D.C.",
-    "fit": "4lv",
-    "est_png": 511993
+    "p": "Washington, D.C."
   },
   {
     "file": "map113.png",
     "c": "A. Pissis",
     "t": "Mapa de la República de Chile",
     "y": "",
-    "p": "",
-    "fit": "6lv",
-    "est_png": 575220
+    "p": ""
   },
   {
     "file": "map114.png",
     "c": "—",
     "t": "Plan de la Barre et du Havre de Charles-Town",
     "y": "1776",
-    "p": "France",
-    "fit": "16lv",
-    "est_png": 418941
+    "p": "France"
   },
   {
     "file": "map115.png",
     "c": "—",
     "t": "Geological Phenomena — Pichincha and Antisana volcano maps",
     "y": "",
-    "p": "",
-    "fit": "10lv",
-    "est_png": 574596
+    "p": ""
   },
   {
     "file": "map116.png",
     "c": "—",
     "t": "Sect. XXII — Lunar Surface Contour Map",
     "y": "",
-    "p": "",
-    "fit": "6lv",
-    "est_png": 496700
+    "p": ""
   },
   {
     "file": "map117.png",
     "c": "—",
     "t": "Bagnères de Luchon — Pyrenean Topographic Sheet 252",
     "y": "",
-    "p": "France",
-    "fit": "5lv",
-    "est_png": 594395
+    "p": "France"
   },
   {
     "file": "map118.png",
     "c": "Haack / Stieler",
     "t": "Die mittleren Anden (The Central Andes)",
     "y": "c.1925",
-    "p": "Gotha: Justus Perthes",
-    "fit": "8lv",
-    "est_png": 572507
+    "p": "Gotha: Justus Perthes"
   },
   {
     "file": "map119.png",
@@ -1092,27 +854,21 @@
     "t": "Iwate-san volcanic topography",
     "y": "",
     "p": "Japan",
-    "copyright_risk": true,
-    "fit": "10lv",
-    "est_png": 599941
+    "copyright_risk": true
   },
   {
     "file": "map120.png",
     "c": "Dépôt de la Guerre",
     "t": "Prades — Carte de l'État-Major",
     "y": "c.1866",
-    "p": "Paris",
-    "fit": "4lv",
-    "est_png": 463060
+    "p": "Paris"
   },
   {
     "file": "map121.png",
     "c": "U.S. Geographical Survey West of the 100th Meridian",
     "t": "Part of South Western Colorado, Atlas Sheet 61D",
     "y": "1876",
-    "p": "Washington D.C.",
-    "fit": "4lv",
-    "est_png": 470962
+    "p": "Washington D.C."
   },
   {
     "file": "map122.png",
@@ -1120,17 +876,247 @@
     "t": "Hawaii North, Hawaiian Islands NE 5-1 (directional lighting relief)",
     "y": "",
     "p": "",
-    "copyright_risk": true,
-    "fit": "8lv",
-    "est_png": 545828
+    "copyright_risk": true
   },
   {
     "file": "map123.png",
     "c": "Dr. H. Haack",
     "t": "Mittelitalien — Vesuvius inset",
     "y": "",
-    "p": "Gotha: Justus Perthes",
+    "p": "Gotha: Justus Perthes"
+  },
+  {
+    "file": "map124.png",
+    "c": "Ortelius",
+    "t": "Maris Pacifici",
+    "y": "1589",
+    "p": "Antwerp",
+    "fit": "4lv",
+    "est_png": 586557
+  },
+  {
+    "file": "map125.png",
+    "c": "Blaeu",
+    "t": "Guiana sive Amazonum Regio",
+    "y": "1635",
+    "p": "Amsterdam",
+    "fit": "8lv",
+    "est_png": 575187
+  },
+  {
+    "file": "map126.png",
+    "c": "-",
+    "t": "Aphricae Tabula III",
+    "y": "1545",
+    "p": "",
+    "fit": "16lv",
+    "est_png": 590549
+  },
+  {
+    "file": "map127.png",
+    "c": "Olaus Magnus",
+    "t": "Carta Marina",
+    "y": "1539",
+    "p": "Venice",
+    "fit": "4lv",
+    "est_png": 585127
+  },
+  {
+    "file": "map128.png",
+    "c": "Kircher",
+    "t": "Tabula Geographica Hydrophylacium Asiae Majoris",
+    "y": "1665",
+    "p": "Amsterdam",
+    "fit": "16lv",
+    "est_png": 232581
+  },
+  {
+    "file": "map129.png",
+    "c": "Frederik de Wit",
+    "t": "Nova Totius Terrarum Orbis Tabula",
+    "y": "1660",
+    "p": "Amsterdam",
     "fit": "6lv",
-    "est_png": 584657
+    "est_png": 504177
+  },
+  {
+    "file": "map130.png",
+    "c": "Turgot / Bretez",
+    "t": "Plan de Paris",
+    "y": "1739",
+    "p": "Paris",
+    "fit": "4lv",
+    "est_png": 547944
+  },
+  {
+    "file": "map131.png",
+    "c": "Giovanni Battista Nolli",
+    "t": "Nuova Pianta di Roma",
+    "y": "1748",
+    "p": "Roma",
+    "fit": "5lv",
+    "est_png": 549594
+  },
+  {
+    "file": "map132.png",
+    "c": "John Rocque",
+    "t": "A Plan of the Cities of London and Westminster",
+    "y": "1746",
+    "p": "London",
+    "fit": "4lv",
+    "est_png": 574213
+  },
+  {
+    "file": "map133.png",
+    "c": "-",
+    "t": "Argentina / Straßburg",
+    "y": "1493",
+    "p": "Nürnberg",
+    "fit": "16lv",
+    "est_png": 310027
+  },
+  {
+    "file": "map134.png",
+    "c": "J. Bachmann",
+    "t": "Bird's Eye View of Boston",
+    "y": "1850",
+    "p": "New York",
+    "fit": "8lv",
+    "est_png": 589897
+  },
+  {
+    "file": "map135.png",
+    "c": "Giuseppe Vasi",
+    "t": "Prospetto dell'Alma Città di Roma visto dal Monte Gianicolo",
+    "y": "1765",
+    "p": "Roma",
+    "fit": "4lv",
+    "est_png": 589008
+  },
+  {
+    "file": "map136.png",
+    "c": "Athanasius Kircher",
+    "t": "Tabula Geographico-Hydrographica Motus Oceani Currentes Abyssos Montes Ignivomos",
+    "y": "1665",
+    "p": "Amsterdam",
+    "fit": "16lv",
+    "est_png": 352675
+  },
+  {
+    "file": "map137.png",
+    "c": "Matthäus Merian",
+    "t": "Die Fürstliche Residenz Stat Altenburg in Meissen",
+    "y": "1650",
+    "p": "Frankfurt",
+    "fit": "12lv",
+    "est_png": 594186
+  },
+  {
+    "file": "map138.png",
+    "c": "Turgot / Bretez",
+    "t": "Plan de Paris",
+    "y": "1739",
+    "p": "Paris",
+    "fit": "4lv",
+    "est_png": 526118
+  },
+  {
+    "file": "map139.png",
+    "c": "Valck",
+    "t": "Novus Planiglobii Terrestris per Utrumque Polum Conspectus",
+    "y": "1695",
+    "p": "Amsterdam",
+    "fit": "8lv",
+    "est_png": 578352
+  },
+  {
+    "file": "map140.png",
+    "c": "Merian",
+    "t": "Brema",
+    "y": "1653",
+    "p": "Frankfurt",
+    "fit": "16lv",
+    "est_png": 442458
+  },
+  {
+    "file": "map141.png",
+    "c": "Hollar",
+    "t": "A View of London Bridge in the Year 1647",
+    "y": "1647",
+    "p": "London",
+    "fit": "8lv",
+    "est_png": 599073
+  },
+  {
+    "file": "map142.png",
+    "c": "Johnson",
+    "t": "Chart of Comparative Heights of Mountains and Lengths of Rivers",
+    "y": "1864",
+    "p": "New York",
+    "fit": "16lv",
+    "est_png": 381073
+  },
+  {
+    "file": "map143.png",
+    "c": "Visscher, Nicolaes Joannes",
+    "t": "Leo Belgicus – Nova XVII Provinciarum Germaniae Inferioris tabula",
+    "y": "1630",
+    "p": "Amsterdam",
+    "fit": "6lv",
+    "est_png": 556850
+  },
+  {
+    "file": "map144.png",
+    "c": "Rose, F. W.",
+    "t": "Serio-Comic War Map for the Year 1877",
+    "y": "1877",
+    "p": "London",
+    "fit": "10lv",
+    "est_png": 586675
+  },
+  {
+    "file": "map145.png",
+    "c": "Ortelius",
+    "t": "Tartariae sive Magni Chami Regni Typus",
+    "y": "1579",
+    "p": "Antwerp",
+    "fit": "4lv",
+    "est_png": 540163
+  },
+  {
+    "file": "map146.png",
+    "c": "-",
+    "t": "Roma Antica – bird's-eye plan of ancient Rome",
+    "y": "c. 1550",
+    "p": "",
+    "fit": "16lv",
+    "est_png": 585185
+  },
+  {
+    "file": "map147.png",
+    "c": "Olaus Magnus",
+    "t": "Carta Marina et Descriptio Septemtrionalium Terrarum",
+    "y": "1539",
+    "p": "Venice",
+    "fit": "4lv",
+    "est_png": 554593
+  },
+  {
+    "file": "map148.png",
+    "c": "Heinrich Bünting",
+    "t": "Die ganze Welt in einem Kleberblatt",
+    "y": "1585",
+    "p": "Hannover",
+    "fit": "16lv",
+    "est_png": 449428
+  },
+  {
+    "file": "map149.png",
+    "c": "Emanuel Bowen",
+    "t": "A New and Accurate Map of all the Known World",
+    "y": "1744",
+    "p": "London",
+    "fit": "4lv",
+    "est_png": 440391
   }
 ]
