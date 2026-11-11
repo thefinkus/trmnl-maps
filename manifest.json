@@ -384,7 +384,9 @@
     "c": "Justus Perthes",
     "t": "Thätigkeit des Erdinnern — Vulkane und Strandveränderungen",
     "y": "",
-    "p": "Gotha"
+    "p": "Gotha",
+    "fit": "8lv",
+    "est_png": 573650
   },
   {
     "file": "map46.png",
@@ -398,7 +400,9 @@
     "c": "Mädler, J.H.",
     "t": "General-Karte der sichtbaren Seite der Mondoberfläche",
     "y": "1837",
-    "p": "Berlin"
+    "p": "Berlin",
+    "fit": "4lv",
+    "est_png": 579114
   },
   {
     "file": "map48.png",
@@ -506,7 +510,10 @@
     "c": "E. von Sydow",
     "t": "Vesuvius und seine Umgebung / Vesuvius and Naples Bay",
     "y": "",
-    "p": "Gotha: Justus Perthes"
+    "p": "Gotha: Justus Perthes",
+    "fit": "16lv",
+    "est_png": 322781,
+    "src": "size4"
   },
   {
     "file": "map62.png",
@@ -596,8 +603,8 @@
     "t": "Canyon Sheet — Geology Sheet XII, Yellowstone National Park",
     "y": "1904",
     "p": "Washington",
-    "fit": "4lv",
-    "est_png": 549346
+    "fit": "4lv+s1500",
+    "est_png": 500876
   },
   {
     "file": "map72.png",
@@ -790,7 +797,7 @@
     "y": "",
     "p": "",
     "fit": "4lv",
-    "est_png": 562961
+    "est_png": 545083
   },
   {
     "file": "map95.png",
@@ -853,8 +860,8 @@
     "t": "India XI — Himalayan Foothills and Nepal",
     "y": "",
     "p": "London",
-    "fit": "8lv",
-    "est_png": 580010
+    "fit": "16lv",
+    "est_png": 597923
   },
   {
     "file": "map103.png",
@@ -873,7 +880,7 @@
     "y": "",
     "p": "Gotha",
     "fit": "6lv",
-    "est_png": 494195
+    "est_png": 489370
   },
   {
     "file": "map105.png",
@@ -898,8 +905,8 @@
     "t": "Die sichtbare Seite der Mond-Oberfläche bei voller Beleuchtung",
     "y": "",
     "p": "Gotha",
-    "fit": "6lv",
-    "est_png": 572749
+    "fit": "4lv",
+    "est_png": 536067
   },
   {
     "file": "map108.png",
@@ -1047,7 +1054,9 @@
     "c": "Blaeu",
     "t": "Guiana sive Amazonum Regio",
     "y": "1635",
-    "p": "Amsterdam"
+    "p": "Amsterdam",
+    "fit": "6lv",
+    "est_png": 488910
   },
   {
     "file": "map126.png",
@@ -1070,14 +1079,18 @@
     "c": "Kircher",
     "t": "Tabula Geographica Hydrophylacium Asiae Majoris",
     "y": "1665",
-    "p": "Amsterdam"
+    "p": "Amsterdam",
+    "fit": "16lv",
+    "est_png": 291464
   },
   {
     "file": "map129.png",
     "c": "Frederik de Wit",
     "t": "Nova Totius Terrarum Orbis Tabula",
     "y": "1660",
-    "p": "Amsterdam"
+    "p": "Amsterdam",
+    "fit": "4lv",
+    "est_png": 454146
   },
   {
     "file": "map130.png",
@@ -1136,7 +1149,9 @@
     "c": "Athanasius Kircher",
     "t": "Tabula Geographico-Hydrographica Motus Oceani Currentes Abyssos Montes Ignivomos",
     "y": "1665",
-    "p": "Amsterdam"
+    "p": "Amsterdam",
+    "fit": "16lv",
+    "est_png": 493181
   },
   {
     "file": "map137.png",
@@ -1161,14 +1176,18 @@
     "c": "Valck",
     "t": "Novus Planiglobii Terrestris per Utrumque Polum Conspectus",
     "y": "1695",
-    "p": "Amsterdam"
+    "p": "Amsterdam",
+    "fit": "6lv",
+    "est_png": 559456
   },
   {
     "file": "map140.png",
     "c": "Merian",
     "t": "Brema",
     "y": "1653",
-    "p": "Frankfurt"
+    "p": "Frankfurt",
+    "fit": "16lv",
+    "est_png": 557980
   },
   {
     "file": "map141.png",
@@ -1184,14 +1203,18 @@
     "c": "Johnson",
     "t": "Chart of Comparative Heights of Mountains and Lengths of Rivers",
     "y": "1864",
-    "p": "New York"
+    "p": "New York",
+    "fit": "6lv",
+    "est_png": 579689
   },
   {
     "file": "map143.png",
     "c": "Visscher, Nicolaes Joannes",
     "t": "Leo Belgicus – Nova XVII Provinciarum Germaniae Inferioris tabula",
     "y": "1630",
-    "p": "Amsterdam"
+    "p": "Amsterdam",
+    "fit": "4lv",
+    "est_png": 505256
   },
   {
     "file": "map144.png",
@@ -1226,8 +1249,8 @@
     "t": "Die ganze Welt in einem Kleberblatt",
     "y": "1585",
     "p": "Hannover",
-    "fit": "16lv",
-    "est_png": 449428
+    "fit": "6lv",
+    "est_png": 599503
   },
   {
     "file": "map148.png",
@@ -1236,6 +1259,6 @@
     "y": "1744",
     "p": "London",
     "fit": "4lv",
-    "est_png": 440391
+    "est_png": 528876
   }
 ]
